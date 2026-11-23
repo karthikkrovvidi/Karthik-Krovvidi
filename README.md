@@ -1,6 +1,6 @@
 # Hi, I'm Karthik Sai Sri Rama Raju Krovvidi 👋
 
-### Software Developer | Java | Python | React.js | SQL | Machine Learning
+### Software Developer | Java | Python | React.js | SQL | Prompt Engineering | AI&ML | Cloud | Data Analytics
 
 I'm a Computer Science and Engineering graduate (2025) passionate about software development, problem-solving, and building practical technology solutions.
 
